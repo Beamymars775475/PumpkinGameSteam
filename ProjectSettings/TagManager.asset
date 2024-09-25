@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Pumpkin
+  - Upgrade
+  - Banktext
+  - PumpkinSpawner
+  - Windleft
+  - Windright
+  - BlackWall
+  - RefreshUpgrades
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background(Mouse)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroud
+    uniqueID: 1881620035
+    locked: 0
+  - name: Tilemap
+    uniqueID: 447296201
+    locked: 0
+  - name: TilemapDecoraitons
+    uniqueID: 1741468541
+    locked: 0
+  - name: Ennemi
+    uniqueID: 2871287351
+    locked: 0
+  - name: Wall
+    uniqueID: 3954370997
+    locked: 0
+  - name: MenuButton
+    uniqueID: 4158669817
+    locked: 0
+  - name: Trail
+    uniqueID: 3641350525
+    locked: 0
+  - name: Player
+    uniqueID: 3965506967
+    locked: 0
+  - name: BackgroundForMouse
+    uniqueID: 3525165565
+    locked: 0
